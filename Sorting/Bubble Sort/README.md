@@ -42,14 +42,6 @@ Consider the following list: `[5, 3, 8, 4, 2]`
 
 The list is now sorted: `[2, 3, 4, 5, 8]`
 
-## Time Complexity
-
-- **Best Case:** O(n) - when the list is already sorted.
-- **Average Case:** O(n^2)
-- **Worst Case:** O(n^2)
-
-Bubble Sort is not suitable for large datasets as its average and worst-case time complexity is quite high.
-
 ## Pseudocode
 
 ```
