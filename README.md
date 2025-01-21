@@ -8,7 +8,7 @@ This repository contains implementations of various algorithms in different prog
 1. **Sorting Algorithms**
     - Bubble Sort
     - Selection Sort (WIP)
-    - Insertion Sort (WIP)
+    - Insertion Sort
     - Merge Sort (WIP)
     - Quick Sort (WIP)
 

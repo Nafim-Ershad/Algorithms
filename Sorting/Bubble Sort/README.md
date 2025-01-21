@@ -67,4 +67,18 @@ procedure bubbleSort(A: list of sortable items)
 end procedure
 ```
 
+## Time and Space Complexity
+
+### Time Complexity
+
+- **Best Case:** O(n) - when the list is already sorted.
+- **Average Case:** O(n^2)
+- **Worst Case:** O(n^2)
+
+Bubble Sort is not suitable for large datasets as its average and worst-case time complexity is quite high.
+
+### Space Complexity
+
+- **Space Complexity:** O(1) - Bubble Sort only requires a constant amount of additional space for the swapped variable and the temporary variable used for swapping.
+
 Bubble Sort is a straightforward algorithm to implement and understand, making it a good choice for educational purposes.
